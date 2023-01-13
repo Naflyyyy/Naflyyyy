@@ -16,3 +16,10 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+
+
+## Conecte-se comigo:
+[<img align="left" alt="Strike21 | Discord" width="22px" src="https://raw.githubusercontent.com/DiogoMarques2003/DiogoMarques2003/b931474e37b6cc318a15c243804ad4bc4b9bd441/.github/logos/discord.svg" width="50" height="50" />][discord]
+
+
+ [discord]: https://discord.com/users/966438991429763123
